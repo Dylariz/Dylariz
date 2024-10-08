@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OpenVPN-LogMonitor](https://github.com/Dylariz/OpenVPN-LogMonitor)
 
-- 🌱 I’m currently learning **ASP.NET Core and Unity**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 💬 Ask me about **C#**
 
