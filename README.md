@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylariz&label=Profile%20views&color=0e75b6&style=flat" alt="dylariz" /> </p>
 
-- 🔭 I’m currently working on [OpenVPN-LogMonitor](https://github.com/Dylariz/OpenVPN-LogMonitor)
+- 🔭 I’m currently working on private YupiQuest-server
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
